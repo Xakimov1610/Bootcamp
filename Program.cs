@@ -116,6 +116,11 @@ namespace Bootcamp
                 lab8.Problem9();
                 lab8.Problem10();
             }
+            else if (a == 404)
+            {
+                var trash = new Trash();
+                trash.Problem1();
+            }
         }
     }
 }

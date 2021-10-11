@@ -6,3 +6,4 @@
 - Lab6
 - Lab7
 - Lab8
+- Trash
