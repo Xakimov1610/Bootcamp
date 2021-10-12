@@ -1,4 +1,5 @@
 using System;
+using static System.Console;
 
 namespace bootcamp.Solutions
 {
@@ -6,7 +7,7 @@ namespace bootcamp.Solutions
     {
         public void Problem1()
         {
-            System.Console.WriteLine("Daaang ! :)");
+            WriteLine("Daaang ! :)");
         }
     }
 }

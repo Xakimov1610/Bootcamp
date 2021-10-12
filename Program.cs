@@ -2,6 +2,7 @@
 using System.Linq;
 using bootcamp.Solutions;
 using System.Collections.Generic;
+using static System.Console;
 
 namespace Bootcamp
 {
