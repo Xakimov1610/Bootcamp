@@ -5,7 +5,7 @@ namespace bootcamp.Solutions
 {
     class Trash
     {
-        public void Problem1() // Masal
+        public void Problem() // Masal
         {
             for(int i = 2; i <= 10; i++)
             {

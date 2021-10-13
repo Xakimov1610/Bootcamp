@@ -4,8 +4,7 @@ using static System.Console;
 namespace bootcamp.Solutions
 {
     class Trash
-    {
-        public void Problem1() // Masal
+    { public void Problem4() // Masal 4
         {
             for(int i = 2; i <= 10; i++)
             {
